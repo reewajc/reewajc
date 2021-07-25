@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ram Chapagai
-- 👀 I’m interested in ASP.NET, C#, SQL, and WEB DEVELOPMENT
+- 👀 I’m interested in Java, Srping, Spring Boot, MVC, ASP.NET, C#, SQL, and WEB DEVELOPMENT
 - 🌱 I’m currently learning ASP.NET Core MVC
 - 💞️ I’m looking to collaborate on Mobile Application Development using Flutter or Swift
 - 📫 Reach out to me https://www.linkedin.com/in/ram-chapagai-713226173/
